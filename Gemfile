@@ -2,7 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
 gem 'jquery-rails'
-gem 'devise'
+gem 'devise', '3.0.0.rc'
+gem 'simple_form', '~> 2.1.0'
 
 
 group :production do
